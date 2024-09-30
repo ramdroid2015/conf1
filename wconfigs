@@ -1,0 +1,13 @@
+#warp://License@IP:port?ifp=n1-n2&ifps=s1-s2&ifpd=d1-d2&ifpm=mode#name
+
+warp://auto?ifp=50-100&ifps=10-100&ifpd=2-8&ifpm=m4#Ramin1
+
+warp://auto?ifp=30-50&ifps=10-100&ifpd=2-8&ifpm=m4#Ramin2
+
+warp://auto?ifp=30-50&ifps=10-60&ifpd=2-8&ifpm=m4#Ramin3
+
+warp://auto?ifp=30-80&ifps=10-60&ifpd=1-5&ifpm=m4#Ramin4
+
+warp://51rfI0k3-zOb869y3-k8H6fd43auto?ifp=30-80&ifps=10-60&ifpd=1-5&ifpm=m4#Ramin5
+
+warp://51rfI0k3-zOb869y3-k8H6fd43auto?ifp=30-50&ifps=10-50&ifpd=1-5&ifpm=m4#Ramin6
